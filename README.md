@@ -15,22 +15,9 @@ To become a sought-after Systems Analyst who helps businesses and development te
    Tools: Figma, Draw.io, Miro, Jira, Confluence, Postman.
    Technical Foundation: SQL (basic queries), Understanding of APIs (REST, SOAP).
 
-🧩 My Projects & Pet Projects
-This is where I showcase my work, even the small stuff. Every item here is a step forward.
+🧩 My Projects & Pet Projects and 🛠️ My Tech Stack
+Pretty bare right now, but I'll be learning and creating more soon!
 
-| Project | Description | What I Did | Link |
-
-Requirements Analysis for [App Name]** | A training project on writing a Software Requirements Specification. | Created an SRS, wrote User Stories, drew a Use Case diagram. | [Link to folder/file] |
-Business Process Modeling: [Process Name]** | Task: Describe the "[e.g., Order Fulfillment]" process using BPMN. | Created a BPMN diagram in Camunda Modeler / Draw.io. | [Link to .bpmn or .png file] |
-Database Design for [System Name]** | Designing a simple database for [e.g., a library]. | Developed an ER diagram, wrote SQL scripts to create tables. | [Link to folder/file] |
-[Next Project Name]** | [Brief description of what you are working on next] | [List of tasks planned] | [Link] |
-
-🛠️ My Tech Stack
-*   Modeling & Prototyping: Figma, Draw.io, Miro
-*   Project Tracking:*Jira, Trello
-*   Data: SQL (Basic Level)
-*   Documentation: Notion, Google Docs, Markdown
-*   API Analysis: Postman
 
 📞 Contact Me
 LinkedIn: https://www.linkedin.com/in/arsevios-grace-634727346/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmN%2F4cmX2SWetEQLkM0Derw%3D%3D
