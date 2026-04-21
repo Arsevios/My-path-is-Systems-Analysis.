@@ -1,6 +1,6 @@
 👋 Hi there! I'm Arsevios — Aspiring Systems Analyst
 
-I am a Фstudent at the very beginning of my IT career journey. This repository is my learning journal where I compile everything I study and practice in the field of Systems Analysis. My goal is to structure my knowledge and visually demonstrate my professional growth.
+I am a student at the very beginning of my IT career journey. This repository is my learning journal where I compile everything I study and practice in the field of Systems Analysis. My goal is to structure my knowledge and visually demonstrate my professional growth.
 
 
 🗺️ My Path to Systems Analysis
