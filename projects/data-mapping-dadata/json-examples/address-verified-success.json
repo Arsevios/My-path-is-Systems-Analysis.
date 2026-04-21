@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "itemId": 123456,
+      "count": 1
+    },
+    {
+      "itemId": 15555,
+      "count": 2
+    }
+  ],
+  "contacts": {
+    "name": "John",
+    "surname": "Doe",
+    "phone": "15551234567",
+    "email": "john.doe@example.com"
+  },
+  "delivery": {
+    "type": "toClient",
+    "addressChecked": true,
+    "rawAddressString": null,
+    "address": {
+      "index": 78746,
+      "district": "Travis County",
+      "city": "Austin",
+      "village": null,
+      "street": "Bee Cave Rd",
+      "house": "10",
+      "structure": "12",
+      "flat": "1"
+    }
+  },
+  "paymentType": 3,
+  "confirmation": "sms"
+}
