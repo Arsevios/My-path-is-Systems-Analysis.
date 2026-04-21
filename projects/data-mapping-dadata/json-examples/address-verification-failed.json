@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "itemId": 123456,
+      "count": 1
+    },
+    {
+      "itemId": 15555,
+      "count": 2
+    }
+  ],
+  "contacts": {
+    "name": "John",
+    "surname": "Doe",
+    "phone": "15551234567",
+    "email": "john.doe@example.com"
+  },
+  "delivery": {
+    "type": "toClient",
+    "addressChecked": false,
+    "rawAddressString": "Austin, Bee Cave Rd, 10 apt 1",
+    "address": {
+      "index": null,
+      "district": null,
+      "city": null,
+      "village": null,
+      "street": null,
+      "house": null,
+      "structure": null,
+      "flat": null
+    }
+  },
+  "paymentType": 3,
+  "confirmation": "sms"
+}
